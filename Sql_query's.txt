@@ -1,0 +1,38 @@
+advanced_sql_questions = """
+# 📌 Advanced SQL Business Questions for Employee Analytics
+
+1. What is the average age of employees by department?
+2. What is the distribution of employees across employment types and departments?
+3. Which department has the highest average performance rating for full-time employees?
+4. Identify employees with base salary higher than their department's average.
+5. What is the gender pay gap per department?
+6. What is the employee count by work shift and employment status?
+7. Identify departments with more than 50% of employees working night shifts.
+8. Which job titles have the highest turnover (resigned or terminated employees)?
+9. What is the average length of service for employees who resigned?
+10. Find the department with the most consistent performance (lowest std dev in rating).
+11. What percentage of employees received an annual bonus above 10% of base salary?
+12. List employees with performance rating above 4 and annual bonus below 5,000.
+13. What are the top 3 cities with the highest concentration of skilled employees (count by skill)?
+14. What is the median base salary across different marital statuses?
+15. Calculate the number of employees hired each year for the past 5 years.
+16. What is the correlation between base salary and annual bonus across departments?
+17. Identify employees whose hiring anniversary is this month.
+18. What is the retention rate by department in the past year?
+19. Which departments have the most multilingual employees?
+20. Identify managers (employees with subordinates) and count how many report to them.
+21. What is the average performance rating by country and work shift?
+22. What percentage of employees are eligible for retirement in the next 5 years (age >= 60)?
+23. List employees who have been promoted in the past 2 years (requires promotion_date column).
+24. Compare salary and bonus by gender in IT and Finance departments.
+25. Who are the top 10 highest earners (salary + bonus) in each job title?
+26. How many employees have the same skill but are in different departments?
+27. Find out which employment type has the highest satisfaction rating (requires satisfaction column).
+28. Create a distribution of employees by age brackets (e.g., 20–29, 30–39, etc.).
+29. What is the attrition rate (resigned + terminated) over total employees by department?
+30. Identify duplicate emails or phone numbers if any (data quality check).
+
+---
+
+These questions are ideal for building dashboards, reports, and predictive models using SQL, Excel, Power BI
+"""
