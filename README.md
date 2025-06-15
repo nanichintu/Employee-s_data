@@ -46,6 +46,7 @@ The dataset includes the following fields:
 - Predict potential resignations using status and performance
 
 ## 🧠 Tools Recommended
-- **Excel (for basic EDA)
-- **SQL** (for querying subsets and KPI extraction)
+- **Excel** (for basic EDA)
+- **SQL server** writing the query
+- **SQL** (for querying subsets)
 - **Power BI (for dashboards)
